@@ -1,10 +1,10 @@
 aiogram==3.28.2
 requests==2.34.2
 mutagen==1.47.0
-Pillow==12.2.0
-yt-dlp==2026.3.17
+Pillow==13.0.0
+yt-dlp==2026.7.4
 aioshutil==1.6
 Unidecode==1.4.0
-aiohttp==3.13.5
+aiohttp==3.14.4
 pycryptodome==3.23.0
-certifi==2026.5.20
+certifi==2026.10.19
